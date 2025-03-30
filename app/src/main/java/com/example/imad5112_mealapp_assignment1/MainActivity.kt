@@ -1,6 +1,7 @@
 /*Reference List for .kt file:
-
-
+https://www.youtube.com/watch?v=ZykCSjd9axk
+https://stackoverflow.com/questions/6643432/remove-the-image-from-a-imageview-android
+https://stackoverflow.com/questions/68781508/kotlin-when-with-multiple-outcomes-for-each-case
 */
 
 package com.example.imad5112_mealapp_assignment1
