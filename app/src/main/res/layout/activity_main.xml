@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Reference List for .xml file:
--->
 
+<!--Reference List for .xml file:
+https://pngtree.com/so/yogurt
+https://creazilla.com/media/clipart/34030/beef-steak-meal
+https://pngtree.com/freepng/popcorn_7085531.html
+https://pngtree.com/free-png-vectors/pasta-salad-vector
+https://pngtree.com/free-png-vectors/ice-cream-clipart
+https://pngtree.com/so/fairy
+https://pngtree.com/so/egg-clipart
+-->
 
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
