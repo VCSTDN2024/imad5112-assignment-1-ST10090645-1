@@ -14,7 +14,7 @@
 
 ## Links
 - GitHub Repository Link: https://github.com/VCSTDN2024/imad5112-assignment-1-ST10090645-1
-- **YouTube Video**: [YouTube Video Link]
+- YouTube Video: https://youtu.be/qN0eCt8CSSk
 ```
 ---
 ## 2. Project Overview
@@ -86,7 +86,7 @@ The workflow ensures that my project is automatically built and tested every tim
 *Example of user entering a specific time of day: Text changes to an appropriate response as well as provide a clear image of what the user should eat or prepare.*
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: https://youtu.be/qN0eCt8CSSk
 
 ---
 ## 7. Challenges and Learnings
