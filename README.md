@@ -108,34 +108,38 @@ From these challenges, I learned important lessons in debugging which will serve
 ---
 
 ## 8. Future Enhancements
-----------------------
+
+---
 
 ```markdown
 ## Potential updates to my application
 
 Even though the application achieves the desired goal, some additions may be implemented to improve usefulness and aesthetic.
 
-1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
-2. **Feature 2**: [Description, e.g., "Integrating with a cloud database for storing user data."]
-3. **Feature 3**: [Description, e.g., "Adding a dark mode option for better user experience."]
+1. Feature 1: Adding functionality to a second screen to provide room for even more suggestions and images for any given time of day.
+2. Feature 2: Accounting for more specific times of the day to give users more suggestions than currently available.
+3. Feature 3: Adding sound effects to improve the user experience.
 
-These enhancements would improve the app’s usability and make it even more versatile for end-users.
+These updates would greatly improve the app’s usability and make it an overall better experience for users.
 ```
-
-Why:
-----
-- Suggesting future improvements shows forward thinking and a desire to continuously improve. It also demonstrates that the student has a clear vision for the app beyond the current assignment.
 
 ---
 
-9. References
--------------
+## 9. References
+
+---
 
 ```markdown
-## References
+# Reference List
 
-1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
-2. [Reference 2: Any relevant papers, documentation, or tutorials.]
+- Reference 1: Flutter dev tips, 2023. Android Studio - How to change image on click. [video online] Available at: <https://www.youtube.com/watch?v=ZykCSjd9axk> [Accessed 15 March 2025].
+
+- Reference 2: Stack Overflow, 2011. Remove the image from a imageview Android. [online] Available at: <https://stackoverflow.com/questions/6643432/remove-the-image-from-a-imageview-android>. [Accessed 15 March 2025].
+
+- Reference 3: Stack Overflow, 2021. Kotlin when with multiple outcomes for each case. [online] Available at: <https://stackoverflow.com/questions/68781508/kotlin-when-with-multiple-outcomes-for-each-case>. [Accessed 15 March 2025].
+
+- Reference 4: 
+
 ```
 
 Why:
