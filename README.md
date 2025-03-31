@@ -39,8 +39,9 @@ Once again, the main goal of this app is to aid users that are unsure of what me
 
 These features serve to create a very user friendly experience that most users should be comfortable navigating and making use of.
 
+---
 ## 4. Design Considerations
-------------------------
+---
 
 ```markdown
 
@@ -78,51 +79,41 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ![image](https://github.com/user-attachments/assets/7b42d79c-aea5-466d-837d-17ed8d441a11)
 
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Home screen: Intro page that users are greeted by upon opening the app.*
 
-![Screenshot 2](path_to_screenshot_2.png)
-*Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+![image](https://github.com/user-attachments/assets/a024adf4-d28c-4a37-8504-64c35bdb8d40)
+
+*Example of user entering a specific time of day: Text changes to an appropriate response as well as provide a clear image of what the user should eat or prepare.*
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
-```
-
-Why:
-----
-- Visuals like screenshots or a video link provide concrete evidence of the app’s functionality. This is an easy way for the reader to see what the app looks like and how it operates.
 
 ---
-
-7. Challenges and Learnings
----------------------------
+## 7. Challenges and Learnings
+---
 
 ```markdown
-## Challenges and Learnings
+# Learning from mistakes and overcome hurdles
 
-During the development of this project, I encountered several challenges, including:
+During the development of this project, I encountered several challenging tasks, including:
 
-1. **Challenge 1**: [Briefly describe a challenge you faced, e.g., "Implementing a complex feature like the login system."]
-   - **Solution**: [How you solved the challenge, e.g., "I researched Firebase authentication and successfully integrated it into the app."]
+1. Challenge 1: Working with ImageViews despite not having learnt about them in detail yet.
+   - Solution: A lot of trial and error as well as some critical thinking and further independent research.
    
-2. **Challenge 2**: [Describe another challenge, e.g., "Debugging issues related to Gradle builds."]
-   - **Solution**: [How you solved the challenge.]
+2. Challenge 2: Working with a "when" statement that used multiple inputs to produce the same output in order to account for users not capitalizing their prompts.
+   - Solution: Some critical thinking and using knowlegde acquired from previous applications that I've developed.
 
-From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
+From these challenges, I learned important lessons in debugging which will serve to shorten development time for future applications.
 ```
-
-Why:
-----
-- Reflecting on challenges and solutions shows growth and problem-solving skills, which are critical for students. It also gives insight into their learning process, which can be valuable to employers.
-
 ---
 
-8. Future Enhancements
+## 8. Future Enhancements
 ----------------------
 
 ```markdown
-## Future Enhancements
+## Potential updates to my application
 
-While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
+Even though the application achieves the desired goal, some additions may be implemented to improve usefulness and aesthetic.
 
 1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
 2. **Feature 2**: [Description, e.g., "Integrating with a cloud database for storing user data."]
