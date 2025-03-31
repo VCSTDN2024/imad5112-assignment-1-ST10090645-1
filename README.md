@@ -13,7 +13,7 @@
 - Subject: Introduction to Mobile Application Development (IMAD5112)
 
 ## Links
-- GitHub Repository Link: <https://github.com/VCSTDN2024/imad5112-assignment-1-ST10090645-1>
+- GitHub Repository Link: https://github.com/VCSTDN2024/imad5112-assignment-1-ST10090645-1
 - **YouTube Video**: [YouTube Video Link]
 ```
 ---
