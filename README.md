@@ -65,26 +65,19 @@ This project was managed using GitHub for version control, where all code change
 I utilized an automated workflow using GitHub Actions to automate the build and deployment process. This includes:
 
 - Running automated tests to ensure the app’s functionality.
-- Compiling the app into APK** and **AAB**files, which are the formats required for distribution.
+- Compiling the app into APK and AAB files, which are the formats required for distribution.
 - Uploading these build artifacts to GitHub for easy access.
 
 The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
 ```
-
-Why:
-----
-- This section educates students on why they should understand version control (GitHub) and automation (GitHub Actions). It shows how they’re adopting industry-standard practices, which is useful for both academic purposes and career development.
-
+---
+## 6. Screenshots and App Demo
 ---
 
-6. Screenshots and App Demo
----------------------------
-
-```markdown
-## Screenshots
-
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
+
+![image](https://github.com/user-attachments/assets/7b42d79c-aea5-466d-837d-17ed8d441a11)
+
 *Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 ![Screenshot 2](path_to_screenshot_2.png)
