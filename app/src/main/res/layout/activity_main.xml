@@ -36,7 +36,7 @@ https://pngtree.com/so/egg-clipart
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="fitXY"
-        android:text="Meal Suggestion App"
+        android:text="Fae's Meal Suggestion App"
         android:textColor="#FFFCFC"
         android:textSize="24sp"
         android:textStyle="bold"
