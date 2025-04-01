@@ -9,7 +9,7 @@
 - Developer: Dylan Tshilay Mbamba
 - Student Number: ST10090645
 - Group: Group 1
-- Course: Higher Cerificate in Mobile Application and Web Development (HMAW0501)
+- Course: Higher Certificate in Mobile Application and Web Development (HMAW0501)
 - Subject: Introduction to Mobile Application Development (IMAD5112)
 
 ## Links
@@ -34,8 +34,8 @@ Purpose:
 Once again, the main goal of this app is to aid users that are unsure of what meals to prepare or eat for any given time of day and offer them suggestions.
 
 ### Key Features:
-- Feature 1: A colorful user interface which includes Fae, a lovely assistant that instructs the user on exactly how to navigate the app and input the correct prompts in order to get the desired results.
-- Feature 2: Handles user errors such as not inputting a prompt or inputing the incorrect prompt, and aids the user in correcting their mistakes.
+- Feature 1: A colourful user interface which includes Fae, a lovely assistant that instructs the user on exactly how to navigate the app and input the correct prompts in order to get the desired results.
+- Feature 2: Handles user errors such as not inputting a prompt or inputting the incorrect prompt, and aids the user in correcting their mistakes.
 
 These features serve to create a very user friendly experience that most users should be comfortable navigating and making use of.
 
@@ -101,7 +101,7 @@ During the development of this project, I encountered several challenging tasks,
    - Solution: A lot of trial and error as well as some critical thinking and further independent research.
    
 2. Challenge 2: Working with a "when" statement that used multiple inputs to produce the same output in order to account for users not capitalizing their prompts.
-   - Solution: Some critical thinking and using knowlegde acquired from previous applications that I've developed.
+   - Solution: Some critical thinking and using knowledge acquired from previous applications that I've developed.
 
 From these challenges, I learned important lessons in debugging which will serve to shorten development time for future applications.
 ```
