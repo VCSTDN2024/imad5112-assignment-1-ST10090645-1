@@ -138,18 +138,18 @@ These updates would greatly improve the app’s usability and make it an overall
 
 - Reference 3: Stack Overflow, 2021. Kotlin when with multiple outcomes for each case. [online] Available at: <https://stackoverflow.com/questions/68781508/kotlin-when-with-multiple-outcomes-for-each-case>. [Accessed 15 March 2025].
 
-- Reference 4: Creazilla. Beef Steak Meal. [electronic print] Availible at: <https://creazilla.com/media/clipart/34030/beef-steak-meal>. [Accessed 15 March 2025].
+- Reference 4: Creazilla. Beef Steak Meal. [electronic print] Available at: <https://creazilla.com/media/clipart/34030/beef-steak-meal>. [Accessed 15 March 2025].
 
-- Reference 5: Pngtree. Yogurt PNG. [electronic print] Availible at: <https://pngtree.com/so/yogurt>. [Accessed 15 March 2025].
+- Reference 5: Pngtree. Yogurt PNG. [electronic print] Available at: <https://pngtree.com/so/yogurt>. [Accessed 15 March 2025].
 
-- Reference 6: Pngtree. Popcorn PNG. [electronic print] Availible at: <https://pngtree.com/freepng/popcorn_7085531.html>. [Accessed 15 March 2025].
+- Reference 6: Pngtree. Popcorn PNG. [electronic print] Available at: <https://pngtree.com/freepng/popcorn_7085531.html>. [Accessed 15 March 2025].
 
-- Reference 7: Pngtree. Pasta Salad PNG. [electronic print] Availible at: <https://pngtree.com/free-png-vectors/pasta-salad-vector>. [Accessed 15 March 2025].
+- Reference 7: Pngtree. Pasta Salad PNG. [electronic print] Available at: <https://pngtree.com/free-png-vectors/pasta-salad-vector>. [Accessed 15 March 2025].
 
-- Reference 8: Pngtree. Ice-cream PNG. [electronic print] Availible at: <https://pngtree.com/free-png-vectors/ice-cream-clipart>. [Accessed 15 March 2025].
+- Reference 8: Pngtree. Ice-cream PNG. [electronic print] Available at: <https://pngtree.com/free-png-vectors/ice-cream-clipart>. [Accessed 15 March 2025].
 
-- Reference 9: Pngtree. Fairy PNG. [electronic print] Availible at: <https://pngtree.com/so/fairy>. [Accessed 15 March 2025].
+- Reference 9: Pngtree. Fairy PNG. [electronic print] Available at: <https://pngtree.com/so/fairy>. [Accessed 15 March 2025].
 
-- Reference 9: Pngtree. Egg PNG. [electronic print] Availible at: <https://pngtree.com/so/egg-clipart>. [Accessed 15 March 2025].
+- Reference 9: Pngtree. Egg PNG. [electronic print] Available at: <https://pngtree.com/so/egg-clipart>. [Accessed 15 March 2025].
 
 ```
